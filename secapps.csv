@@ -3,5 +3,25 @@ cb.exe,Carbon Black
 metricbeat.exe,Elastic - Metric Beat
 winlogbeat.exe,Elastic - Winlog Beat
 cytray.exe,PaloAlto - Traps
-cyserver.exe,PaloAlto - Traps,
+cyserver.exe,PaloAlto - Traps
 cyveraconsole.exe,PaloAlto - Traps
+mbam.exe,Malwarebytes
+avp.exe,Kaspersky Internet Security
+klnagent.exe,Kaspersky Administration Kit
+vsserv.exe,Bitdefender
+masvc.exe,McAfee
+mctray.exe,McAfee
+macmnsvc.exe,McAfee
+avastsvc.exe,Avast
+avastui.exe,Avast
+ccsvchst.exe,Norton Anti Virus
+wrsa.exe,Webroot SecureAnywhere
+ekrn.exe,ESET NOD32 Anti Virus
+egui.exe,ESET NOD32 Anti Virus
+fsm32.exe,F-Secure Anti Virus
+fshoster32.exe,F-Secure Anti Virus
+pccntmon.exe,TrendMicro Anti Virus
+pavfnsvr.exe,Panda Anti Virus
+avengine.exe,Panda Anti Virus
+avgamsvr.exe,AVG Anti Virus
+syslog.exe,Syslog Monitoring
