@@ -1,6 +1,8 @@
 # SecEnum
 Created by: David "darkw1z" Kasabji
+
 Twitter: @darkw1z
+
 Date Created: 22.08.2018
 
 This is an OpenSource project for enumerating security and monitoring tools used on Windows machine.
