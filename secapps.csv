@@ -1,0 +1,7 @@
+process_name,vendor
+cb.exe,Carbon Black
+metricbeat.exe,Elastic - Metric Beat
+winlogbeat.exe,Elastic - Winlog Beat
+cytray.exe,PaloAlto - Traps
+cyserver.exe,PaloAlto - Traps,
+cyveraconsole.exe,PaloAlto - Traps
